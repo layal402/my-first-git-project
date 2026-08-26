@@ -3,3 +3,4 @@
 # my-first-git-project
 git
 ****bun
+*bun
